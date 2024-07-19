@@ -1,0 +1,7 @@
+num1=int(input("enter your number :"))
+num2=int(input("enter your number :"))
+print(f"add :{num1+num2}")
+print(f"sub :{num1-num2}")
+print(f"mul :{num1*num2}")
+print(f"div :{num1/num2}")
+print(type(num1))
